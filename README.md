@@ -1,6 +1,6 @@
 # Random Small Projects
 
-Several beginner projects.
+Several small projects.
 
 - `selector.py`: simply a random selector to tell who to facetime.
 - `login.py`: a fake login that lets you look like you're hacking into some super secret mainframe.
